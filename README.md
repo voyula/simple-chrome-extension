@@ -22,7 +22,7 @@ Licensed under the MIT License. See [License File](LICENSE.md) for more informat
 
 [ico-travis]: https://img.shields.io/travis/voyula/websocket-chat/master.svg?longCache=true&style=flat-square
 
-[ico-license]: https://img.shields.io/packagist/l/voyula/simple-chrome-extension.svg?longCache=true&style=flat-square
+[ico-license]: https://img.shields.io/packagist/l/voyula/validate.svg?longCache=true&style=flat-square
 
 
 [link-travis]: https://travis-ci.org/voyula/simple-chrome-extension
